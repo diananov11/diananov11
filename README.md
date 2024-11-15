@@ -1,4 +1,4 @@
-- 👋 Hi, I’m diana novita
+- 👋 Hi, I’m diana
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning front end and full stack
 
